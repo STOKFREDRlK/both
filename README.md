@@ -1,1 +1,1 @@
-# both
+# BoTH api
