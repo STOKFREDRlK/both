@@ -39,7 +39,7 @@ curl_close( $ch );
 
 // key for stokfredrik
 
-// $url = "https://www.bugbountytraining.com/fastfoodhackers/";
+// $url = "https://www.bugbountytraining.com/fastfoodhackings/";
 // $apiPath = "";
 // $name = "battleofthehackers";
 
