@@ -1,1 +1,1 @@
-# BoTH api
+battleofthehackers api
